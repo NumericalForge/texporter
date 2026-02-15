@@ -1,0 +1,7 @@
+[package]
+name = "texporter"
+description = "Conversion to Latex"
+authors = [ "Raul_Durand" ]
+version = "0.1.0"
+exclude = ["*.pdf", "*.py"]
+entrypoint = "src/lib.typ"
